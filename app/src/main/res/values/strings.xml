@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MultiplesIntent</string>
+    <string name="logo">logo</string>
+    <string name="section_charge_images">Chargue Image Section</string>
+    <string name="imageuploaded">UploadedImage</string>
+    <string name="next">Next</string>
+    <string name="takeapicture">Take a Picture</string>
+    <string name="gotowebpage">GoToWebPage</string>
+    <string name="share">Share</string>
+    <string name="sharing">Sharing</string>
+    <string name="redirecting">Redirecting</string>
+    <string name="noimageupload">Please, Upload a Picture</string>
+</resources>
